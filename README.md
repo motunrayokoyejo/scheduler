@@ -6,7 +6,6 @@ A scheduling system that finds optimal times for feedback conversations based on
 
 ```bash
 npm install
-mkdir -p data
 npm run start:dev
 
 # In another terminal
